@@ -1,6 +1,6 @@
 # spring-boot-h2-example
 
-This is an example Spring Boot project with a REST API, connection to an in-memory H2 database with a table, view and stored procedure setup using Flyway that can be run in Docker container.
+This is an example Spring Boot project with a REST API, connection to an in-memory H2 database with a table, view, and stored procedure setup using Flyway that can be run in Docker container.
 
 ## Swagger
 You can verify that the demo project works correctly by checking the swagger page at http://localhost:8080/swagger-ui/index.html and trying out the GET /users endpoint.
